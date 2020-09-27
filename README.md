@@ -17,4 +17,4 @@ You need to have installed the next software to successfully run the program:
 
 ## License
 
- This project is licensed under the MIT License - see the [LICENSE](https://github.com/srubianof/SlangChallenge/LICENSE) file for details.# SlangChallenge
+ This project is licensed under the MIT License - see the [LICENSE](https://github.com/srubianof/SlangChallenge/blob/master/LICENSE) file for details.
